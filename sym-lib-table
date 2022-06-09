@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "FT232XS")(type "Legacy")(uri "${KIPRJMOD}/lib/FT231XS-R/FT231XS-R.lib")(options "")(descr ""))
+  (lib (name "DCDC_ISO")(type "Legacy")(uri "${KIPRJMOD}/lib/PDSE1-S5-S5-D/PDSE1-S5-S5-D.lib")(options "")(descr ""))
+  (lib (name "SP3T")(type "Legacy")(uri "${KIPRJMOD}/lib/PCM13SMTR/PCM13SMTR.lib")(options "")(descr ""))
+)
